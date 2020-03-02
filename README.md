@@ -3,7 +3,7 @@
 ## Project Introduction
 The goal of this project is to build a ranked substitution recommender for a given player.
 Substitution is considered to be good when recommended players are similar to given player
-in relevant aspects, which are determined with the help of domain expertise of author.
+in relevant aspects, which are determined with the help of domain expertise of the author.
 
 ### Methods Used
 * Statistics
